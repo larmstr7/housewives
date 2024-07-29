@@ -1,5 +1,6 @@
 body {
-    background-color: pink;
+    background-color: hotpink;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #button {
     outline: 0;
